@@ -1,0 +1,3 @@
+
+QUIZ = 0
+SOLUTION = 1
